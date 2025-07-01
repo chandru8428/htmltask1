@@ -75,14 +75,12 @@
     }
     .table{
         margin-left: 370px;
-        margin-right: 360px;
         border-radius: 10px;
         border-style: groove;
         border-width: 3px;
         border-color: black;
-        
-    }
- .table tr td{
+        }
+.table tr td{
         border-color: black;
         border-width: 2px;
         border-style: groove;
